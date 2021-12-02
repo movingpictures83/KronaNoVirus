@@ -1,0 +1,2 @@
+Prefix plugins/KronaNoVirus/example
+Plugin KronaNoVirus inputfile input.krona outputfile input.novirus.krona
